@@ -4,5 +4,5 @@
 
 ## A repo for all important resources
 
-* [PoorSql](https://github.com/Contributors-Hacktoberfest/Important-Links/blob/master/Indentation-Resources-Online.md)
+* [PoorSql](http://poorsql.com/)
 * [Starting ML](https://github.com/Contributors-Hacktoberfest/Resourcegram/blob/master/src/How%20to%20Start%20Learning%20Machine%20Learning%3F.md)
