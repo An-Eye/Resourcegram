@@ -6,3 +6,7 @@
 
 * [PoorSql](http://poorsql.com/)
 * [Starting ML](https://github.com/Contributors-Hacktoberfest/Resourcegram/blob/master/src/How%20to%20Start%20Learning%20Machine%20Learning%3F.md)
+
+## Resources
+* [Design](https://github.com/Contributors-Hacktoberfest/Resourcegram/blob/master/Design/Design-Lessons.md)
+* [Courses](https://github.com/Contributors-Hacktoberfest/Resourcegram/blob/master/Courses/Links.md)
