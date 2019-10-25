@@ -4,7 +4,7 @@
 * [Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
 * [tutsgalaxy](https://tutsgalaxy.com/)
 * [frontendmasters](https://frontendmasters.com/books/front-end-handbook/2019/)
-# Machine Learning(Resources) 
+# Machine Learning
 * [NUMPY](https://www.youtube.com/playlist?list=PLNmACol6lYY5DafThhu1LsH8MlldnHf44)
 
 
