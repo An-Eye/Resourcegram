@@ -4,9 +4,9 @@
 * [Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
 * [tutsgalaxy](https://tutsgalaxy.com/)
 * [frontendmasters](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 # Machine Learning
 * [NUMPY](https://www.youtube.com/playlist?list=PLNmACol6lYY5DafThhu1LsH8MlldnHf44)
-
 
 * [STATISTICS](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
@@ -31,3 +31,5 @@
 
 * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+# Agile
+* [Scrum Training Series](http://scrumtrainingseries.com)
